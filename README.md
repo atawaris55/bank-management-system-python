@@ -1,6 +1,6 @@
 # bank-management-system-python
 A console-based Bank Management System built using Python and JSON.
-# 🏦 Bank Management System
+# 🏦 Bank Management System project
 
 A simple banking system project built using Python.
 
